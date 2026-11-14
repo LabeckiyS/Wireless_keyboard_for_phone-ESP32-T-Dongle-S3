@@ -52,11 +52,11 @@
 
 Собственная панель управления BLE:
 
-<https://labeckiys.github.io/esp32-s3-cyrillic-hid/>
+<https://labeckiys.github.io/Wireless_keyboard_for_phone-ESP32-T-Dongle-S3/>
 
 Веб-установщик прошивки:
 
-<https://labeckiys.github.io/esp32-s3-cyrillic-hid/web/index.html>
+<https://labeckiys.github.io/Wireless_keyboard_for_phone-ESP32-T-Dongle-S3/web/index.html>
 
 ### Структура
 
