@@ -31,7 +31,7 @@
 
 Откройте в Chrome или Edge:
 
-https://labeckiys.github.io/esp32-s3-cyrillic-hid/
+https://labeckiys.github.io/Wireless_keyboard_for_phone-ESP32-T-Dongle-S3/
 
 Нажмите «Подключить устройство», выберите `Клавиатура`, затем при первом
 подключении введите PIN, появившийся на дисплее донгла.
